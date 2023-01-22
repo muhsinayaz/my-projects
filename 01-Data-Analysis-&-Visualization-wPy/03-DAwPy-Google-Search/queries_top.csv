@@ -1,26 +1,26 @@
 query_2011,value_2011,query_2012,value_2012,query_2013,value_2013,query_2014,value_2014,query_2015,value_2015,query_2016,value_2016,query_2017,value_2017,query_2018,value_2018,query_2019,value_2019,query_2020,value_2020,query_2021,value_2021,query_2022,value_2022
-video,100,you,100,facebook,100,facebook,100,facebook,100,facebook,100,facebook,100,youtube,100,hava durumu,100,hava durumu,100,hava durumu,100,hava durumu,100
-türkiye,63,zaman,98,youtube,27,youtube,33,youtube,42,youtube,50,youtube,75,facebook,93,youtube,68,youtube,63,dolar,54,altın,37
-zaman,54,spor,84,face,12,google,17,google,20,hava durumu,26,hava,51,hava durumu,92,facebook,63,çeviri,43,youtube,51,dolar,36
-altın,53,ben,79,google,11,sahibinden,14,sahibinden,16,google,25,hava durumu,46,son dakika,43,son dakika,38,son dakika,41,altın,45,çeviri,34
-sözlük,53,altın,72,sahibinden,11,face,12,hava durumu,13,sahibinden,21,son dakika,28,sahibinden,40,haber,36,eba,40,çeviri,40,youtube,33
-çeviri,52,çeviri,67,mynet,10,hotmail,11,haber,12,haber,21,google,28,haber,40,çeviri,35,altın,40,e devlet,28,e devlet,29
-gazete,52,galatasaray,65,hotmail,9,e okul,10,e okul,11,son dakika,17,haber,27,dolar,36,dolar,34,facebook,38,twitter,28,sahibinden,20
-you,51,tv izle,64,milliyet,8,mynet,10,face,11,haberler,15,sahibinden,27,çeviri,34,sahibinden,33,sahibinden,35,son dakika,25,son dakika,20
-spor,47,gazete,63,e okul,7,milliyet,10,milliyet,11,face,14,haberler,21,google,34,twitter,30,twitter,35,sahibinden,24,google,18
-tv izle,42,kurtlar vadisi,59,haber,7,haber,9,mynet,10,milliyet,13,çeviri,21,haberler,33,instagram,30,haber,31,facebook,23,instagram,17
-kurtlar vadisi,40,my,43,oyun,7,hürriyet,7,hotmail,10,e okul,13,milliyet,16,instagram,30,google,29,dolar,30,instagram,22,twitter,17
-canlı tv,35,radyo dinle,43,twitter,7,twitter,7,hürriyet,8,çeviri,12,instagram,16,mynet,28,haberler,29,instagram,30,google,21,haber,15
-my,34,trt,42,hürriyet,6,oyun,7,haberler,8,mynet,11,mynet,16,twitter,25,mynet,26,e devlet,28,whatsapp,20,whatsapp,15
-gezginler,33,youtube mp3,42,film izle,5,hava durumu,6,son dakika,7,film,11,hürriyet,14,milliyet,24,altın,23,google,26,mynet,20,translate,14
-izlesene,31,gezginler,42,oyunlar,5,film izle,6,çeviri,7,hotmail,10,hotmail,13,e devlet,24,sözcü,22,mynet,24,haber,20,mynet,14
-samsung,30,star tv,39,hava durumu,4,çeviri,5,oyun,7,hürriyet,9,e okul,13,hürriyet,20,e devlet,19,haberler,23,haberler,17,dolar tl,13
-galatasaray,29,kanal d,39,fanatik,4,haberler,5,film izle,6,instagram,9,twitter,12,sözcü,19,translate,16,sözcü,20,whatsapp web,16,euro,13
-nokia,27,ekşi,38,sahadan,3,oyunlar,4,zaman,6,oyun,8,face,12,hotmail,16,tjk,16,trendyol,19,trendyol,16,facebook,13
-ziraat,26,lig tv,36,habertürk,3,zaman,4,twitter,5,twitter,7,translate,10,tjk,16,milliyet,15,whatsapp,19,sözcü,15,haberler,12
-kurtlar vadisi pusu,25,adını feriha koydum,35,haberler,3,son dakika,4,spor,4,spor,6,e devlet,9,e okul,16,trendyol,15,translate,16,eba,15,namaz vakitleri,12
-canlı tv izle,24,metin2,34,araba,3,araba,4,araba,4,sahadan,6,tjk,9,translate,15,e okul,14,whatsapp web,14,euro,14,dolar kaç tl,12
-ateş ve su,24,yahoo,34,gazeteler,3,sahadan,4,sahadan,4,tubidy,6,sözcü,9,döviz,14,hürriyet,13,tjk,12,dolar tl,14,whatsapp web,11
-aöf,24,pepe,34,garanti,3,tubidy,3,translate,4,ösym,6,oyun,9,film izle,13,hotmail,12,eba giriş,11,translate,13,altın fiyatları,10
-sayısal loto,24,dizimag,33,zaman,3,ösym,3,tubidy,4,film izle,6,dolar,8,fenerbahçe,12,galatasaray,12,namaz vakitleri,11,dolar kaç tl,13,trendyol,10
-sgk,22,gs,33,son dakika,2,fanatik,3,instagram,4,youtube mp3,6,film izle,8,trendyol,11,ziraat,11,döviz,10,altın fiyatları,13,tjk,10
+facebook,100,facebook,100,facebook,100,facebook,100,facebook,100,facebook,100,facebook,100,youtube,100,hava,100,hava durumu,100,hava durumu,100,hava durumu,100
+face,20,youtube,25,youtube,25,youtube,33,youtube,47,youtube,50,youtube,76,hava durumu,93,hava durumu,99,youtube,68,dolar,51,çeviri,39
+youtube,16,face,14,face,13,google,17,google,22,hava durumu,28,hava,53,facebook,92,youtube,77,son dakika,42,youtube,51,altın,38
+mynet,15,mynet,13,google,11,sahibinden,15,sahibinden,17,google,27,hava durumu,47,son dakika,43,facebook,56,çeviri,41,altın,40,dolar,37
+sahibinden,11,sahibinden,11,sahibinden,10,face,12,hava durumu,13,sahibinden,22,sahibinden,28,sahibinden,40,son dakika,39,altın,41,çeviri,37,youtube,34
+oyun,9,hotmail,9,hotmail,10,mynet,11,haber,13,haber,21,son dakika,27,haber,39,çeviri,37,eba,41,twitter,28,e devlet,25
+e okul,9,e okul,9,mynet,10,milliyet,11,e okul,13,son dakika,19,google,27,dolar,36,haber,35,facebook,40,e devlet,28,sahibinden,20
+milliyet,8,oyun,9,milliyet,8,hotmail,10,face,12,haberler,15,haber,26,google,35,dolar,35,sahibinden,34,son dakika,25,son dakika,19
+hotmail,8,milliyet,9,twitter,8,e okul,10,mynet,12,face,14,haberler,20,çeviri,32,sahibinden,34,twitter,34,facebook,24,twitter,18
+haber,7,haber,7,e okul,8,haber,9,hotmail,11,e okul,13,çeviri,20,haberler,32,google,30,dolar,30,sahibinden,24,instagram,18
+hürriyet,7,google,7,haber,7,hürriyet,8,milliyet,11,milliyet,13,instagram,17,mynet,30,twitter,30,instagram,30,instagram,22,google,18
+oyunlar,7,oyunlar,6,oyun,6,twitter,7,haberler,9,çeviri,12,milliyet,16,instagram,29,instagram,30,haber,30,google,20,haber,17
+google,5,hürriyet,6,hürriyet,6,oyun,7,hürriyet,8,mynet,12,mynet,16,twitter,26,haberler,28,e devlet,29,mynet,20,whatsapp,16
+film izle,5,twitter,6,oyunlar,5,hava durumu,6,son dakika,8,film,11,hürriyet,13,film,25,mynet,25,google,27,whatsapp,20,mynet,15
+araba,5,film izle,5,film izle,5,film izle,6,oyun,8,hotmail,11,e okul,12,milliyet,25,altın,23,mynet,24,haber,20,euro,14
+video,5,hava durumu,4,fanatik,4,haberler,5,çeviri,7,instagram,9,hotmail,12,e devlet,24,sözcü,22,haberler,24,haberler,17,translate,13
+fanatik,4,fanatik,4,hava durumu,4,çeviri,5,zaman,6,hürriyet,9,twitter,11,hürriyet,21,e devlet,19,trendyol,20,whatsapp web,16,facebook,13
+sahadan,4,sahadan,4,sahadan,3,zaman,4,film izle,6,oyun,8,face,11,sözcü,19,spor,16,sözcü,19,sözcü,16,haberler,13
+habertürk,4,habertürk,4,haberler,3,oyunlar,4,twitter,6,twitter,7,translate,10,e okul,17,tjk,15,whatsapp,19,trendyol,15,dolar tl,12
+msn,3,araba,4,habertürk,3,son dakika,4,spor,5,sahadan,7,sözcü,9,hotmail,17,translate,15,translate,16,dolar tl,14,dolar kaç tl,12
+hava durumu,3,ösym,3,araba,3,sahadan,4,araba,5,spor,6,e devlet,9,tjk,16,milliyet,15,web whatsapp,14,eba,14,namaz vakitleri,12
+gazeteler,3,gazeteler,3,garanti,3,araba,4,sahadan,5,translate,6,tjk,9,translate,15,trendyol,14,ziraat,14,euro,14,whatsapp web,11
+türkiye,3,sabah,3,gazeteler,3,garanti,4,tubidy,4,ösym,6,oyun,9,döviz,14,e okul,14,tjk,12,translate,14,trendyol,11
+sabah,3,you,3,zaman,3,ösym,3,translate,4,film izle,6,dolar,8,film izle,13,hürriyet,13,eba giriş,11,dolar kaç tl,13,tjk,11
+memurlar,3,garanti,3,son dakika,2,tubidy,3,instagram,4,youtube mp3,6,film izle,8,trendyol,12,galatasaray,13,namaz vakitleri,11,döviz,12,altın fiyatları,10
